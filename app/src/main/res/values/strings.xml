@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="pref_openmode" />
+    <string name="pref_size" />
+    <string name="pref_style" />
+    <string name="action_open" />
+    <string name="action_save" />
+    <string name="action_settings" />
+</resources>
